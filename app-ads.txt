@@ -1,0 +1,10 @@
+# app-ads.txt for DigiGaan
+# Spec: IAB Tech Lab app-ads.txt v1.0
+# Must be served at https://digigaan.github.io/app-ads.txt
+# The "Developer Website" field in your Play Store / App Store listing
+# must point at https://digigaan.github.io for crawlers to find this file.
+
+# Google AdMob
+# REPLACE pub-0000000000000000 with your own AdMob publisher ID
+# (AdMob console -> Settings -> Account information -> Publisher ID).
+google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
